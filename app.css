@@ -1,0 +1,40 @@
+.button{
+    text-align: center;
+}
+.head{
+    background-color: violet;
+    text-align: center;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: pink;
+}
+.border1{
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 25px;
+    border-color: blue;
+}
+.border2{
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 25px;
+    border-color: blue;
+}
+.border3{
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 25px;
+    border-color: blue;
+}
+.border4{
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 25px;
+    border-color: blue;
+}
+.math{
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 50px;
+    border-color: antiquewhite;
+}
